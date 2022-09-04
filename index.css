@@ -5,11 +5,29 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body{
-    background-image: url(map.jpeg);
+    height: 100vh;
+    width: 100vh;
+    background-image: url(earth.mp4);
     background-color: #3d64e6;
+    background-size: cover;
 }
+.back-video{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+@media (max-aspect-ratio: 16/9){
+    .back-video{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
 .container{
-    background-color: #ffffff;
+    background-color: #f7f7f7;
+    opacity: 1;
     width: 80vw;
     max-width: 37.5em;
     padding: 3em 2.5em;
@@ -17,8 +35,8 @@ body{
     transform: translate(-50%,-50%);
     top: 50%;
     left: 50%;
-    border-radius: 0.62em;
-    box-shadow: 0 1.25em 1.8em rgb(8, 21, 65, 0.25);
+    border-radius: 10px;
+    box-shadow: 0 4px 30px rgb(0, 0, 0, 0.20);
 }
 .search-wrapper{
     display: grid;
@@ -64,10 +82,10 @@ body{
 .container h4{
     display: inline;
     font-weight: 500;
-    color: black;
+    color: rgb(44, 42, 42);
 }
 .container span{
-    color: #5d6274;
+    color: #000000;
 }
 .container h3{
     text-align: center;
