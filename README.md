@@ -3,11 +3,13 @@ Author : Halkano Malise Tadicha
 Tittle : COUNTRY GUIDE APP (fetches data from www.restcountries.com a Public API)
 
 [The live link to the website](https://malise5.github.io/Phase1_Independent_Project/)
+````
+   TECHNOLOGIES USED 
 
-TECHNOLOGIES USED 
-   -JavaScript
-   -HTML
-   -CSS
+      -JavaScript
+      -HTML
+      -CSS
+```
 
 Description:
 
