@@ -1,25 +1,51 @@
 # Phase1_Independent_Project
 ```
-Tittle : COUNTRY GUIDE APP that fetches data from www.restcountries.com a Public API 
+Author : Halkano Malise Tadicha
+Tittle : COUNTRY GUIDE APP that (fetches data from www.restcountries.com a Public API)
 
-The Application Helps to display the features of a specific button from a click of a button (Search)
-it can be more useful to students and Diplomants from Non Governmental Institutions to know a specific country Geographical Position and Their political and Economic Activities
+    [The live link to the website](http://127.0.0.1:5500/index.html)
+
+TECHNOLOGIES USED 
+   -JavaScript
+   -HTML
+   -CSS
+
+Description:
+
+    The Application Helps to display the features of a specific button from a click of a button (Search)
+    it can be more useful to students and Diplomants from Non Governmental Institutions to know a specific country Geographical Position and Their political and Economic Activities
+    simply Enter the Country Name you want to research on
  ```
-``` TOOLS:
-    VISUAL CODE STUDIO
-    GIT (version Control)
-```
 
- ````
- HTML/CSS were Used to design and Edit the User Interface
- Javascript Helped to fetch and add Eventlisteners to grab and out any error through thr catch function
 
- there challanges along the way, I tried Obtaining a value of an object with the object which had closure object with it self, but through  w3school and some research I was able to make use of Object.value() and Object.Key() to capture the respective data in an Object
 
- CSS was challanging so I followed some online steps and designed my own css visual file in index.css that helped me bring out UI
+Project setup/installation instructions:
 
- I tried to find a way to insert a video at the background of my page, it was quite challanging but I figured out how to add <video></video> into my index.html document and that was pretty impressed
- ```
+    -Clone this repo to your local storage
+    -Navigate to the top level of the directory
+    -open PHASE1_INDEPENDENT_PROJECT/index.html
+
+For beginners follow the setup below
+
+Global setup:
+  Download and install Git
+  git config --global user.email EMAIL_ADDRESS
+      
+Next steps:
+  mkdir PROJECT_NAME
+  cd PROJECT_NAME
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:USER/PROJECT_NAME.git
+  git push origin master
+      
+if there is an Existing Git Repo:
+  cd existing_git_repo
+  git remote add origin git@github.com:USER/PROJECT_NAME.git
+  git push origin master
+
 
 
 
