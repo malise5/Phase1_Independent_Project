@@ -12,10 +12,9 @@ TECHNOLOGIES USED
 
 Description:
 
-    The Application Helps to display the features of a specific button from a click of a button (Search)
-    it can be more useful to students and Diplomants from Non Governmental Institutions to know a specific country Geographical Position and Their political and Economic Activities
-    simply Enter the Country Name you want to research on
- ```
+    The Application Helps to display the features of a specific Country from a click of a button (Search)
+    it is more useful to students and Diplomants from Non Governmental Institutions to know a specific country Geographical Position, Their political and Economic Activities
+    simply Enter the Country Name you want to research.
 
 
 
@@ -49,7 +48,7 @@ if there is an Existing Git Repo:
 
 
 
-Below are the logs I Used to Inspect My Code in the Developer tools in Chrome that Enable me pin point the exact Data I want it to be display on My App UI
+    Below are the logs I Used to Inspect My Code in the Developer tools in Chrome that Enable me pin point the exact Data I want it to be display on My App UI
 ``` console.log(data[0]); //we Acces object name data
         console.log(data[0].capital[0]); //helps to acces the Capital City
         console.log(data[0].flags.svg); //The flag is captured here
