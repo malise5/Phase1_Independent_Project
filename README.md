@@ -1,7 +1,7 @@
 # Phase1_Independent_Project
 ```
 Author : Halkano Malise Tadicha
-Tittle : COUNTRY GUIDE APP that (fetches data from www.restcountries.com a Public API)
+Tittle : COUNTRY GUIDE APP (fetches data from www.restcountries.com a Public API)
 
     [The live link to the website](http://127.0.0.1:5500/index.html)
 
